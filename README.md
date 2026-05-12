@@ -22,7 +22,7 @@ A crash-style betting game built in pure Python with Tkinter. Ride the wave, cas
 - Python 3.10+
 - Tkinter — GUI and canvas animation
 - Threading — non-blocking game loop
-- No external packages
+
 
 
 
